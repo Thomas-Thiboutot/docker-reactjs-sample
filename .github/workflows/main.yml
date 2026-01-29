@@ -1,4 +1,4 @@
-name: CI/CD - React.js Application with Docker
+name: Reactjs Application with Docker
 
 on:
   push:
